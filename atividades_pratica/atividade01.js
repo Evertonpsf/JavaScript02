@@ -8,3 +8,5 @@ console.log("O novo salário é: " + novoSalario.toFixed(2));
 
 
 
+
+

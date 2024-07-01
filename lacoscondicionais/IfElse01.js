@@ -20,6 +20,6 @@ if (idade >= 0 && idade <= 10) {
     console.log("\no seu plano de saude custara R$ 1000,00 por mes.");
 }
 
-if(nome === 'everton'){
-    console.log('\n Muito obrigado Everton');
+if(nome == nome){
+    console.log('\n Muito obrigado ' + nome);
 }
